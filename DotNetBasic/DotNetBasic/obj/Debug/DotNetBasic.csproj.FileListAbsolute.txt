@@ -1,0 +1,7 @@
+C:\VedangCR7\TQ\DotNetBasic\DotNetBasic\bin\Debug\DotNetBasic.exe.config
+C:\VedangCR7\TQ\DotNetBasic\DotNetBasic\bin\Debug\DotNetBasic.exe
+C:\VedangCR7\TQ\DotNetBasic\DotNetBasic\bin\Debug\DotNetBasic.pdb
+C:\VedangCR7\TQ\DotNetBasic\DotNetBasic\obj\Debug\DotNetBasic.csproj.AssemblyReference.cache
+C:\VedangCR7\TQ\DotNetBasic\DotNetBasic\obj\Debug\DotNetBasic.csproj.CoreCompileInputs.cache
+C:\VedangCR7\TQ\DotNetBasic\DotNetBasic\obj\Debug\DotNetBasic.exe
+C:\VedangCR7\TQ\DotNetBasic\DotNetBasic\obj\Debug\DotNetBasic.pdb
