@@ -1,0 +1,7 @@
+C:\VedangCR7\TQ\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+C:\VedangCR7\TQ\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe
+C:\VedangCR7\TQ\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.pdb
+C:\VedangCR7\TQ\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csproj.AssemblyReference.cache
+C:\VedangCR7\TQ\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\VedangCR7\TQ\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.exe
+C:\VedangCR7\TQ\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.pdb
