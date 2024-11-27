@@ -1,0 +1,13 @@
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\bin\Debug\ProductDemo.exe.config
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\bin\Debug\ProductDemo.exe
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\bin\Debug\ProductDemo.pdb
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\obj\Debug\ProductDemo.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\obj\Debug\ProductDemo.Form1.resources
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\obj\Debug\ProductDemo.Properties.Resources.resources
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\obj\Debug\ProductDemo.csproj.GenerateResource.cache
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\obj\Debug\ProductDemo.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\obj\Debug\ProductD.BC69F0D7.Up2Date
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\obj\Debug\ProductDemo.exe
+C:\Users\Comp\source\repos\ProductDemo\ProductDemo\obj\Debug\ProductDemo.pdb
