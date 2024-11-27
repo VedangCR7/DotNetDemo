@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CollectionDemo
+namespace Inheritance
 {
-    class Program
+    public class Airplane : IFlyable
     {
-        static void Main(string[] args)
+        public void FlyObj()
         {
+            Console.WriteLine("Airplane is flying");
+
         }
     }
 }

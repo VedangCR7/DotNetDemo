@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CollectionDemo
+namespace Inheritance
 {
-    class Program
+    public interface IFlyable
     {
-        static void Main(string[] args)
-        {
-        }
+        void FlyObj();
     }
 }

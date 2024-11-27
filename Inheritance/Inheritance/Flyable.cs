@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CollectionDemo
+namespace Inheritance
 {
-    class Program
+    internal interface Flyable
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

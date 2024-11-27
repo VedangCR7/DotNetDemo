@@ -1,0 +1,13 @@
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\bin\Debug\ConnectedDemo.exe.config
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\bin\Debug\ConnectedDemo.exe
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\bin\Debug\ConnectedDemo.pdb
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.Form1.resources
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.Properties.Resources.resources
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.csproj.GenerateResource.cache
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\obj\Debug\Connecte.8FF477F2.Up2Date
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.exe
+C:\Users\Comp\source\repos\ConnectedDemo\ConnectedDemo\obj\Debug\ConnectedDemo.pdb

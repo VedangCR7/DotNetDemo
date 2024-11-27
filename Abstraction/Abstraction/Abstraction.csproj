@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F02F5020-3657-41B8-8103-1C06603BF5CB}</ProjectGuid>
+    <ProjectGuid>{D9CACE1A-658D-49E9-B800-F83922227C91}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CollectionDemo</RootNamespace>
-    <AssemblyName>CollectionDemo</AssemblyName>
+    <RootNamespace>Abstraction</RootNamespace>
+    <AssemblyName>Abstraction</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Shape.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

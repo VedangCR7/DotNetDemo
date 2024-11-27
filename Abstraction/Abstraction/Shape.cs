@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CollectionDemo
+namespace Abstraction
 {
-    class Program
+    abstract public class Shape
     {
-        static void Main(string[] args)
-        {
-        }
+        public abstract void CalculateArea();
     }
 }
