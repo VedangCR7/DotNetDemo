@@ -1,0 +1,14 @@
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\bin\Debug\StudentDemo.exe.config
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\bin\Debug\StudentDemo.exe
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\bin\Debug\StudentDemo.pdb
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\obj\Debug\StudentDemo.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\obj\Debug\StudentDemo.Form1.resources
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\obj\Debug\StudentDemo.Properties.Resources.resources
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\obj\Debug\StudentDemo.csproj.GenerateResource.cache
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\obj\Debug\StudentDemo.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\obj\Debug\StudentD.51BA05B9.Up2Date
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\obj\Debug\StudentDemo.exe
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\obj\Debug\StudentDemo.pdb
+C:\Users\Comp\source\repos\StudentDemo\StudentDemo\obj\Debug\StudentDemo.Form2.resources
